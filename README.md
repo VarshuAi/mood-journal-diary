@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Select emotions, compile thoughts, and check daily mood maps.
+  name: mood-journal-diary version: 1.0 type: Repository author: VarshuAi description: >   Select emotions, compile thoughts, and check daily mood maps. primary_tech: CSS
 primary_tech: CSS
 ```
 
